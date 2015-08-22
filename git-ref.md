@@ -8,11 +8,13 @@ This file contains a summary of basic commands
 
 * git init
 
-### add a file to repo to start tracking it
+### add a file to repo staging area or to start tracking it
 
 * git add <file>
 
+### commit changes to repo
 
+* git commit [-m] [-a ]  ! -m  adds a message, -a skips staging
 
 ### admin commands
 
