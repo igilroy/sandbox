@@ -21,5 +21,6 @@ This file contains a summary of basic commands
 * git status
 * git diff [--staged]
 * git --config
+* git log --stat
 
 
